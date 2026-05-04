@@ -50,7 +50,7 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroLogo
-      logoText="HOTTO"
+      logoText="HOTTOl"
       description="Experience the finest Asian Fusion cuisine in Addis Ababa. Authentic flavors meet modern culinary artistry."
       buttons={[
         {
@@ -95,7 +95,7 @@ export default function LandingPage() {
           id: "2",
           brand: "Appetizer",
           name: "Vegetable Gyoza",
-          price: "ETB 1,200",
+          price: "ETB 1,300",
           rating: 4,
           reviewCount: "85",
           imageSrc: "http://img.b2bpic.net/free-photo/dim-sum-dumpling_74190-5968.jpg?_wi=1",
