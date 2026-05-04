@@ -58,7 +58,7 @@ export default function LandingPage() {
           href: "#menu",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/sushi-dish-asian-restaurant_23-2148195622.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/sushi-dish-asian-restaurant_23-2148195622.jpg?_wi=1"
       imageAlt="Asian Fusion Atmosphere"
     />
   </div>
@@ -89,7 +89,7 @@ export default function LandingPage() {
           price: "ETB 2,500",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-roasted-beef-with-lettuce-red-chili-pepper-plate-wood_141793-11154.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-roasted-beef-with-lettuce-red-chili-pepper-plate-wood_141793-11154.jpg?_wi=1",
         },
         {
           id: "2",
@@ -98,7 +98,7 @@ export default function LandingPage() {
           price: "ETB 1,200",
           rating: 4,
           reviewCount: "85",
-          imageSrc: "http://img.b2bpic.net/free-photo/dim-sum-dumpling_74190-5968.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dim-sum-dumpling_74190-5968.jpg?_wi=1",
         },
         {
           id: "3",
@@ -107,7 +107,7 @@ export default function LandingPage() {
           price: "ETB 1,800",
           rating: 5,
           reviewCount: "95",
-          imageSrc: "http://img.b2bpic.net/free-photo/batter-fried-prawns-wood_1339-7706.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/batter-fried-prawns-wood_1339-7706.jpg?_wi=1",
         },
         {
           id: "4",
@@ -214,7 +214,7 @@ export default function LandingPage() {
           quote: "The atmosphere is top-notch. Love the fusion menu variety.",
           tag: "Diner",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-image-happy-smiling-woman-enjoy-her-morning-french-breakfast-open-cafe-terrace-tasty-organic-food-holding-french-croissant-her-hand_291049-526.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/sushi-dish-asian-restaurant_23-2148195622.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sushi-dish-asian-restaurant_23-2148195622.jpg?_wi=2",
           imageAlt: "happy diner portrait",
         },
         {
@@ -236,7 +236,7 @@ export default function LandingPage() {
           quote: "Delicious ingredients and very professional service.",
           tag: "Foodie",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-kitchen_23-2149631733.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-roasted-beef-with-lettuce-red-chili-pepper-plate-wood_141793-11154.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-roasted-beef-with-lettuce-red-chili-pepper-plate-wood_141793-11154.jpg?_wi=2",
           imageAlt: "happy diner portrait",
         },
         {
@@ -247,7 +247,7 @@ export default function LandingPage() {
           quote: "Perfect for a special occasion. Highly recommended.",
           tag: "Guest",
           avatarSrc: "http://img.b2bpic.net/free-photo/friends-eating-restaurant_23-2148006623.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/dim-sum-dumpling_74190-5968.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/dim-sum-dumpling_74190-5968.jpg?_wi=2",
           imageAlt: "happy diner portrait",
         },
         {
@@ -258,7 +258,7 @@ export default function LandingPage() {
           quote: "Consistent quality and great portions for the price.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-with-messy-bun-hair-style_23-2149459208.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/batter-fried-prawns-wood_1339-7706.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/batter-fried-prawns-wood_1339-7706.jpg?_wi=2",
           imageAlt: "happy diner portrait",
         },
       ]}
